@@ -1,0 +1,14 @@
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\obj\Debug\net8.0\OBJECT.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\obj\Debug\net8.0\OBJECT.AssemblyInfoInputs.cache
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\obj\Debug\net8.0\OBJECT.AssemblyInfo.cs
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\obj\Debug\net8.0\OBJECT.csproj.CoreCompileInputs.cache
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\bin\Debug\net8.0\OBJECT.exe
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\bin\Debug\net8.0\OBJECT.deps.json
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\bin\Debug\net8.0\OBJECT.runtimeconfig.json
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\bin\Debug\net8.0\OBJECT.dll
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\bin\Debug\net8.0\OBJECT.pdb
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\obj\Debug\net8.0\OBJECT.dll
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\obj\Debug\net8.0\refint\OBJECT.dll
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\obj\Debug\net8.0\OBJECT.pdb
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\obj\Debug\net8.0\OBJECT.genruntimeconfig.cache
+G:\Dumb Projects\Helper\6_OOP\7.Array_60\obj\Debug\net8.0\ref\OBJECT.dll

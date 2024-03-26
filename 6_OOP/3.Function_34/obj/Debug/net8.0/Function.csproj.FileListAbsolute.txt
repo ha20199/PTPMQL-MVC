@@ -1,0 +1,14 @@
+G:\Dumb Projects\Helper\6_OOP\Function\obj\Debug\net8.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dumb Projects\Helper\6_OOP\Function\obj\Debug\net8.0\Function.AssemblyInfoInputs.cache
+G:\Dumb Projects\Helper\6_OOP\Function\obj\Debug\net8.0\Function.AssemblyInfo.cs
+G:\Dumb Projects\Helper\6_OOP\Function\obj\Debug\net8.0\Function.csproj.CoreCompileInputs.cache
+G:\Dumb Projects\Helper\6_OOP\Function\bin\Debug\net8.0\Function.exe
+G:\Dumb Projects\Helper\6_OOP\Function\bin\Debug\net8.0\Function.deps.json
+G:\Dumb Projects\Helper\6_OOP\Function\bin\Debug\net8.0\Function.runtimeconfig.json
+G:\Dumb Projects\Helper\6_OOP\Function\bin\Debug\net8.0\Function.dll
+G:\Dumb Projects\Helper\6_OOP\Function\bin\Debug\net8.0\Function.pdb
+G:\Dumb Projects\Helper\6_OOP\Function\obj\Debug\net8.0\Function.dll
+G:\Dumb Projects\Helper\6_OOP\Function\obj\Debug\net8.0\refint\Function.dll
+G:\Dumb Projects\Helper\6_OOP\Function\obj\Debug\net8.0\Function.pdb
+G:\Dumb Projects\Helper\6_OOP\Function\obj\Debug\net8.0\Function.genruntimeconfig.cache
+G:\Dumb Projects\Helper\6_OOP\Function\obj\Debug\net8.0\ref\Function.dll
